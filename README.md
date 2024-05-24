@@ -1,4 +1,5 @@
 # lesson_42
+
 <img src="assets/task1_after.png" width="350" title="hover text">
 <img src="assets/task2.png" width="350" title="hover text">
 <img src="assets/task3.png" width="350" title="hover text">

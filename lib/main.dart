@@ -30,7 +30,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen>
   AppLifecycleState? appLifecycleState;
 
   @override
-  void initState() {
+  void initState() { 
     super.initState();
     WidgetsBinding.instance.addObserver(this);
   }
